@@ -1,4 +1,32 @@
 {
-    "TITLE": "Backwards Development Help",
-    "DESCRIPTION": "# Welcome to Backwards Development\nThis server is a haven for those who have an idea they would like to show people, for tools and applications to flourish.\n\n## The Bots\nThis server has multiple bots who're here to help you with whatever you may need,\nsome play music, some moderate and some are simply here to make your visit more enjoyable.To see what the bots have to offer, run the help command followed by the bots name!"
+    "EMBEDS": [
+        {
+            "NAME": "DEFAULT",
+            "DATA": {
+                "TITLE": "Backwards Development Help",
+                "DESCRIPTION": "# Welcome to Backwards Development\nThis server is a haven for those who have an idea they would like to show people, for tools and applications to flourish, for people to meet new friends.\n\n## The Bots\nBots may have displayed prefixes, however message based commands are primarily for staff use.\nSlash commands are much easier anyways, a lot less you need to remember! Just type `/` and click the bot's icon!\n\n### This Bot\nA Simple Utility Bot made for moderation.\nThis bot is a lot less valuable to community members as it contains utility commands for staff to make their lives a little easier.\n\n### Backwards' Music Bot\nA music bot.\nA bot made to play music, via links or the radio.\n\n### Backwards Support Bot\nA Support bot.\nDM it anything to start the ticket creation process.\n\n### Content Bot\nA Bot that allows users to submit their work.\nJust use the `/submit` command followed by a link to your work, and the bot will add it to a list to be approved. After approval your work will be posted to #your-projects!\n### Future Bots\nAs of this moment in time, that is all of the bots on the server, we do plan to add more, more \"fun\" bots are planned for the future, but we want to get more utility bots done before moving onto fun bots.\n\n## Want to make a suggestion? Want to make a bug report?\nContact @Backwards Support and start the ticket creation process!"
+            }
+        },
+        {
+            "NAME": "SUPPORTBOT",
+            "DATA": {
+                "TITLE": "Backwards Support Bot",
+                "DESCRIPTION": "Likely the easiest bot on the roster,\nsimply send it a DM and it will reply with the next steps."
+            }
+        },
+        {
+            "NAME": "MUSICBOT",
+            "DATA": {
+                "TITLE": "Backwards Music Bot",
+                "DESCRIPTION": "## This bot doesn't work yet.\nThe music bot is just like any that you may have used in the past.\nAs of now there isn't a DJ role, but we will add one if necessary. The bot also features a blacklist to ban users who abuse the bot from using its commands."
+            }
+        },
+        {
+            "NAME": "BACKWARDS",
+            "DATA": {
+                "TITLE": "Backwards",
+                "DESCRIPTION": "Not a bot, however Backwards is the Founder and Acting Owner of Backwards Development.\nPlease refrain from pinging him, if you need a staff member, please use the support bot! `/help @BackwardsSupport`"
+            }
+        }
+    ]
 }

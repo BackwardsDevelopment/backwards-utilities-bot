@@ -6,6 +6,6 @@ interface Run {
 }
 
 export interface Command {
-    data: SlashCommandBuilder
+    data: any
     execute: Run
 }
