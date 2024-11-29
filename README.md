@@ -1,2 +1,2 @@
 # backwards-utilities-bot
-A Server Utilities bot built for the Offiicial Backwards Development Discord Server
+A Server Utilities bot built for the Official Backwards Development Discord Server
